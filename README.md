@@ -39,8 +39,6 @@ A high-performance AI-powered BMTC Bus Transit Assistance web application custom
 6. **🌗 Dark Mode & Light Mode**:
    - Instant toggle with system preference detection and `localStorage` persistence.
 
----
-
 ## 🚀 How to Run Locally
 
 ```bash
