@@ -90,5 +90,5 @@ vercel
 
 ## 🏆 Project Credits
 - **Team**: **TEAM VERTEX**
-- **Developer & Creator**: **AMRIT**
+- **Developer & Creator**: **AMRIT** **AYUSH**
 - **Institution**: Dayananda Sagar Academy of Technology and Management (DSATM), Kanakapura Road, Bengaluru.
