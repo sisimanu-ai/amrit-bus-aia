@@ -1,5 +1,4 @@
 # 🚌 DSATM AI BMTC Bus Assistance
-### **TEAM VERTEX presents • Developed by AMRIT**
 
 A high-performance AI-powered BMTC Bus Transit Assistance web application custom engineered for **Dayananda Sagar Academy of Technology & Management (DSATM)**, Bangalore.
 
